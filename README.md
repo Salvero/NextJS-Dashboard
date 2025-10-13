@@ -2,6 +2,8 @@
 
 A powerful, modern dashboard built with NextJS 15, TypeScript, Tailwind CSS, and Shadcn UI components. This project showcases the capabilities of Shadcn UI with multiple chart types and a responsive dashboard layout.
 
+![Dashboard Screenshot](screenshot.png)
+
 ## Features
 
 - 🚀 **NextJS 15** with App Router
@@ -10,15 +12,14 @@ A powerful, modern dashboard built with NextJS 15, TypeScript, Tailwind CSS, and
 - 🧩 **Shadcn UI** components
 - 📊 **Recharts** for data visualization
 - 📱 **Responsive** design
-- 🎯 **4 Chart Types**: Line, Bar, Pie, and Area charts
-- 🎨 **Modern UI** with dark mode support
+- 📊 **Interactive Charts**: Line and Bar charts with realistic data
+- 🎨 **Modern UI** with clean design
+- 📈 **Analytics Dashboard** with stats cards
 
 ## Chart Components
 
-1. **Line Chart** - Monthly revenue trend
-2. **Bar Chart** - Quarterly performance comparison
-3. **Pie Chart** - Traffic sources distribution
-4. **Area Chart** - User activity trends
+1. **Line Chart** - Monthly revenue trend with realistic fluctuations
+2. **Bar Chart** - Quarterly performance comparison (Revenue vs Profit)
 
 ## Getting Started
 
@@ -44,10 +45,8 @@ src/
 │   └── page.tsx
 ├── components/
 │   ├── charts/
-│   │   ├── area-chart.tsx
 │   │   ├── bar-chart.tsx
-│   │   ├── line-chart.tsx
-│   │   └── pie-chart.tsx
+│   │   └── line-chart.tsx
 │   ├── dashboard/
 │   │   ├── sidebar.tsx
 │   │   └── stats-cards.tsx
