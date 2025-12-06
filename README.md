@@ -1,12 +1,12 @@
 # NextJS Dashboard with Shadcn UI
 
-A powerful, modern dashboard built with NextJS 15, TypeScript, Tailwind CSS, and Shadcn UI components. This project showcases the capabilities of Shadcn UI with multiple chart types and a responsive dashboard layout.
+A powerful, modern dashboard built with NextJS 16, TypeScript, Tailwind CSS, and Shadcn UI components. This project showcases the capabilities of Shadcn UI with multiple chart types and a responsive dashboard layout.
 
 ![Dashboard Screenshot](screenshot.png)
 
 ## Features
 
-- 🚀 **NextJS 15** with App Router
+- 🚀 **NextJS 16** with App Router
 - ⚡ **TypeScript** for type safety
 - 🎨 **Tailwind CSS** for styling
 - 🧩 **Shadcn UI** components
@@ -59,7 +59,7 @@ src/
 
 ## Technologies Used
 
-- **NextJS 15** - React framework
+- **NextJS 16** - React framework
 - **TypeScript** - Type safety
 - **Tailwind CSS** - Utility-first CSS
 - **Shadcn UI** - Component library
@@ -77,6 +77,3 @@ src/
 ## License
 
 MIT
-
-
-
